@@ -20,7 +20,7 @@
  * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "egm96Data.h"
+#include "egm96Data.hpp"
 #include <cstdint>
 #include <cmath>
 
