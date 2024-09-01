@@ -22,8 +22,7 @@
 #ifndef EGM96_DATA_H
 #define EGM96_DATA_H
 
-//! Precomputed EGM96 correction and harmonic coefficients
-static const double egm96_data[65342][4] =
+static const double egm96Data[65342][4] =
 {
 {0,0,0,0},
 {-5.02745,0,0,0},
